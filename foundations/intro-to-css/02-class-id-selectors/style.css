@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+.red-bg {
+  background-color: rgb(255, 0, 0, 0.2);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-text {
+  color: blue;
+  font-size: 36px;
+}
+
+#green-bg-bold {
+  background-color: rgba(5, 254, 5, 0.5);
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.big-font {
+  font-size: 24px;
+}
